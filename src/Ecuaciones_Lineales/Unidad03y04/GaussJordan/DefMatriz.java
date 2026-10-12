@@ -8,6 +8,12 @@ public class DefMatriz {
             { 0.3, -0.2, 10.0,  71.4 },
     };
 
+    //Prueba 02 de reporte PDF
+    // private static double[][] matriz = new double[][] {
+    //            { 1.0,  1.0,   5.00 },
+    //            { 2.0,  1.0,   1.00 },
+    //    };
+
     public static double[][] obtener() {
         return matriz;
     }
